@@ -1,4 +1,4 @@
-![6d8b7f3f-9045-47e0-bba2-b601710974ac](https://github.com/user-attachments/assets/14a9a9b1-d044-46bf-bf36-06e28f1f187b)
+
 
 # Fire Fighting Robot
 
@@ -65,3 +65,6 @@ Contributions are welcome! If you have suggestions or improvements, please fork 
 
 - Inspired by various fire-fighting robot designs and implementations.
 - Special thanks to the open-source community for resources and support.
+
+## Picture 
+![6d8b7f3f-9045-47e0-bba2-b601710974ac](https://github.com/user-attachments/assets/14a9a9b1-d044-46bf-bf36-06e28f1f187b)
